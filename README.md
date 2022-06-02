@@ -15,3 +15,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuskAI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+Hint: username is the last part of your github profile page's URL: 
+eg: https://github.com/ssthouse ==> ssthouse
+
