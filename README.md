@@ -1,8 +1,8 @@
 ### Hi there Welcome to HAORAN's page👋
-- 🔭 本科在读 CS专业 CV方向 
-- 🌱 图像篡改检测、目标检测、图像分类
+- 🔭 MS在读 CS专业 CV方向 
+- 🌱 AIGC-D、MLLM
 - 💬 欢迎
-- 📫 EMail：chenhaoranchr@qq.com   微信：CHRCHN133
+- 📫 EMail：haoranchr@163.com   微信：CHRCHN133
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuskAI)](https://github.com/anuraghazra/github-readme-stats)
