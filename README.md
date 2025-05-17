@@ -13,9 +13,7 @@ I’m currently a Master’s student in Computer Science, with a primary focus o
 - 📫 **How to Reach Me**:
   - **Email**: haoranchr@163.com  
   - **WeChat**: CHRCHN133  
-  - **Google Scholar**: [Haoran on Google Scholar](https://scholar.google.com/citations?user=o6krwYkAAAAJ&hl=en)  
-    or  
-  - <a href="https://scholar.google.com/citations?user=o6krwYkAAAAJ&hl=en" target="_blank">
+  - **Google Scholar**:  <a href="https://scholar.google.com/citations?user=o6krwYkAAAAJ&hl=en" target="_blank">
       <img src="https://img.shields.io/badge/Google%20Scholar-Haoran-blue?logo=googlescholar" alt="Google Scholar">
     </a>
 
